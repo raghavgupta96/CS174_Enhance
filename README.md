@@ -1,6 +1,6 @@
 # CS174
 
-# How to innitial proejct:
+# How to innitialize proejct:
 Requirements: 
 - WebDev IDE (I used Brackets) // Rag
 - XAMPP // For running the MySQL Server
